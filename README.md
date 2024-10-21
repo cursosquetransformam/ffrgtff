@@ -1302,7 +1302,7 @@ Ele também possui uma secção de áudios de um nativo.</h2>		</div>
 				<div class="elementor-element elementor-element-eadc4ee myEffect elementor-widget elementor-widget-image" data-id="eadc4ee" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
 														<a href="https://api.whatsapp.com/send?phone=5521997422604&amp;text=Hi,%20quero%20saber%20mais%20sobre%20o%20curso%20de%20ingl%C3%AAs%20do%20zero%20at%C3%A9%20%C3%A0%20flu%C3%AAncia%20com%20prof.%20Merson.">
-							<img loading="lazy" decoding="async" width="400" height="90" src="images/wpp-1.png" class="attachment-1536x1536 size-1536x1536 wp-image-1826" alt="" srcset="images/wpp-1.png 400w, images/wpp-1-300x68.png 300w" sizes="(max-width: 400px) 100vw, 400px">								</a>
+							<img loading="lazy" decoding="async" width="400" height="90" src="images/wpp-1.png" class="attachment-1536x1536 size-1536x1536 wp-image-1826" alt="" srcset="images/wpp-1 400w, images/wpp-1-300x68.png 300w" sizes="(max-width: 400px) 100vw, 400px">								</a>
 													</div>
 				</div>
 				<div class="elementor-element elementor-element-89905b4 elementor-widget__width-initial elementor-widget elementor-widget-text-editor" data-id="89905b4" data-element_type="widget" data-widget_type="text-editor.default">
